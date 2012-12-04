@@ -12,7 +12,7 @@ Lang: es
                     <div class="item active">
                         <!--<a href="http://www.flickr.com/photos/leoffreitas/789157023/">-->
                         <a href="/pybossa/app/besttile/newtask">
-                            <img src="/static/images/carousel/forest.jpg" alt="">
+                            <img src="|filename|/images/carousel/forest.jpg" alt="">
                         </a>
                         <div class="carousel-caption">
                             <h4>Los bosques están en peligro
@@ -23,7 +23,7 @@ Lang: es
                     <div class="item">
                         <!--<a href="http://www.flickr.com/photos/leoffreitas/1469377935/">-->
                         <a href="/pybossa/app/besttile/newtask">
-                            <img src="/static/images/carousel/burning.jpg" alt="">
+                            <img src="|filename|/images/carousel/burning.jpg" alt="">
                         </a>
                         <div class="carousel-caption">
                             <h4>Fuegos, deforestación ilegal, ...
@@ -34,7 +34,7 @@ Lang: es
                     <div class="item">
                         <!--<a href="http://www.flickr.com/photos/mcgarry/111003432/">-->
                         <a href="/pybossa/app/besttile/newtask">
-                            <img src="/static/images/carousel/crowd.jpg" alt="">
+                            <img src="|filename|/images/carousel/crowd.jpg" alt="">
                         </a>
                         <div class="carousel-caption">
                             <h4>Pero la gente puede ayudar!

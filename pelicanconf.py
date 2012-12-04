@@ -27,6 +27,8 @@ GOOGLE_ANALYTICS = 'UA-31623277-1'
 
 DISQUS_SHORTNAME = 'forestwatchers'
 
+STATIC_FOLDER = 'assets'
+
 # PAGES setup
 INDEX_SAVE_AS = 'blog/index.html'
 PAGE_URL = ('{slug}.html')

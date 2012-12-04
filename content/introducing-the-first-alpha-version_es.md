@@ -17,7 +17,7 @@ También se pueden añadir <a title="OpenLayers.JS proporciona todas estas carac
 <h5>Pantallazo de la aplicación Áreas deforestadas</h5>
 <p>Este pantallazo muestra cómo un usuario puede dibujar polígonos para identificar áreas deforestadas, así como añadir marcadores que permitan revisar posteriormente algún elemento interesante de la imagen por los expertos.</p>
 </div>
-<p><img class="visible-desktop" src="/static/images/demo400.png" alt="" /></p>
+<p><img class="visible-desktop" src="|filename|/images/demo400.png" alt="" /></p>
 </div>
 </li>
 </ul>

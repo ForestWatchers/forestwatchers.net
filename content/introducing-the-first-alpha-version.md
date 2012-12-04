@@ -17,7 +17,7 @@ You can also add <a title="OpenLayers.JS gives us all this flexibility!" href="#
 <h5>Deforested Areas Demo Application Screenshot</h5>
 <p>This screenshot shows how a user can draw areas to mark deforested zones, as well as add markers to warn the project about something interesting.</p>
 </div>
-<p><img class="visible-desktop" src="/static/images/demo400.png" alt="" /></p>
+<p><img class="visible-desktop" src="|filename|/images/demo400.png" alt="" /></p>
 </div>
 </li>
 </ul>

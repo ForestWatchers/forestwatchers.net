@@ -13,7 +13,7 @@ Icon: icon-home
                     <div class="item active">
                         <!--<a href="http://www.flickr.com/photos/leoffreitas/789157023/">-->
                         <a href="/pybossa/app/besttile/newtask">
-                            <img src="static/images/carousel/forest.jpg" alt="">
+                            <img src="|filename|/images/carousel/forest.jpg" alt="">
                         </a>
                         <div class="carousel-caption">
                             <h4>Forests are in danger 
@@ -24,7 +24,7 @@ Icon: icon-home
                     <div class="item">
                         <!--<a href="http://www.flickr.com/photos/leoffreitas/1469377935/">-->
                         <a href="/pybossa/app/besttile/newtask">
-                            <img src="static/images/carousel/burning.jpg" alt="">
+                            <img src="|filename|/images/carousel/burning.jpg" alt="">
                         </a>
                         <div class="carousel-caption">
                             <h4>Fires, illegal logging, ...
@@ -35,7 +35,7 @@ Icon: icon-home
                     <div class="item">
                         <!--<a href="http://www.flickr.com/photos/mcgarry/111003432/">-->
                         <a href="/pybossa/app/besttile/newtask">
-                            <img src="static/images/carousel/crowd.jpg" alt="">
+                            <img src="|filename|/images/carousel/crowd.jpg" alt="">
                         </a>
                         <div class="carousel-caption">
                             <h4>But a crowd can help!
