@@ -48,3 +48,38 @@ Icon: icon-home
                 <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
             </div>
         </div>
+
+<div class="row">
+    <div class="span8 offset2" style="text-align:center;">
+    <a href="/mission.html" class="btn btn-primary btn-large"><i class="icon-book"></i> Learn more</a>
+    <a href="#" class="btn btn-large btn-inverse" onclick="showVideo()"><i class="icon-play-circle"></i> Video</a>
+    <a href="/pybossa" class="btn btn-success btn-large"><i class="icon-heart"></i> Contribute</a>
+    </div>
+</div>
+
+<div id="videocontainer">
+    <div id="video">
+        <div style="text-align:center; padding:20px">
+            <a href="#" class="btn btn-warning btn-large" onclick="closeVideo()"><i class="icon icon-white icon-remove"></i> Close video</a>
+        </div>
+
+        <script type="text/javascript" src="http://s3.amazonaws.com/s3.www.universalsubtitles.org/embed.js">
+            (
+                {"video_url": "http://www.youtube.com/watch?v=eXMlCWmCzEs&enablejsapi=1",
+                    'video_config': {
+                        'playerapiid': 'amarayoutube',
+                    }
+        }
+        )
+        </script>
+    </div>
+</div>
+
+<script>
+    function showVideo() {
+        $("#videocontainer").show();
+    }
+    function closeVideo() {
+        $("#videocontainer").hide();
+    }
+</script>
