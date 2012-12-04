@@ -5,7 +5,7 @@ Icon: icon-home
 
 <div class="row">
     <div class="span8 offset2 columns">
-        <h1>Help the World's Forest</h1>
+        <h1>Help the World's Forests</h1>
             <h6 class="hidden-phone">A citizen project for forest monitoring</h6>
 
             <div id="myCarousel" class="carousel slide">
