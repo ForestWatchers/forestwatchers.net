@@ -1,5 +1,5 @@
 Title:Fórums
-Icon: icon-comment
+Icon: icon-comments
 Slug: forums
 Lang: pt-br
 

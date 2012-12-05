@@ -1,5 +1,5 @@
-Title:Forums
-Icon: icon-comment
+Title:Foros
+Icon: icon-comments
 Slug: forums
 Lang: es
 

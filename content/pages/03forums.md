@@ -1,5 +1,5 @@
 Title:Forums
-Icon: icon-comment
+Icon: icon-comments
 
 <style type="text/css">
       .sidebar-nav {
